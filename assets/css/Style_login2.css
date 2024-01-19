@@ -1,0 +1,20 @@
+
+
+
+  body {
+
+    background-image: url('/inventario/assets/img/inicio3.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Lato', sans-serif;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    overflow: hidden;
+    display: flex;
+  }
+  
+
+
+
+
